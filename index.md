@@ -1,4 +1,3 @@
-Some of my recent publications are listed below grouped by their topic
 
 ## Multilingual NLP
 
