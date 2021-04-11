@@ -6,9 +6,11 @@
     * [Paper](https://www.aclweb.org/anthology/2020.coling-main.414/)
     * [Data](https://github.com/niless/urgency)
     * [Presentation](https://www.slideshare.net/efsunselin/detecting-urgency-status-of-crisis-tweets-a-transfer-learning-approach-for-low-resource-languages)
+    * [Video](https://underline.io/events/54/sessions/1366/lecture/6152-detecting-urgency-status-of-crisis-tweets-a-transfer-learning-approach-for-low-resource-languages)
 
 * *Scalable Cross-lingual Treebank Synthesis for Improved Production Dependency Parsers*
     * [Paper](https://www.aclweb.org/anthology/2020.coling-industry.16/)
+    * [Presentation & Video](https://underline.io/events/54/sessions/1359/lecture/6119-scalable-cross-lingual-treebank-synthesis-for-improved-production-dependency-parsers)
 
 * *MultiSeg: Parallel Data and Subword Information for Learning Bilingual Embeddings in Low Resource Scenarios*
     * [Paper](https://www.aclweb.org/anthology/2020.sltu-1.13/)
