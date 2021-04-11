@@ -27,6 +27,7 @@
 * *Multi-Stage Pre-training for Low-Resource Domain Adaptation*
     * [Paper](https://www.aclweb.org/anthology/2020.emnlp-main.440/)
     * [Code](https://github.com/IBM/techqa/tree/master/synthetic)
+    * [Presenation & Video](https://virtual.2020.emnlp.org/paper_main.2078.html)
 
 * *Answer Span Correction in Machine Reading Comprehension*
     * [Paper](https://www.aclweb.org/anthology/2020.findings-emnlp.226.pdf)
