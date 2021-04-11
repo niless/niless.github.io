@@ -37,3 +37,5 @@
 
 * *Understanding Cohesion in Writings and Speech of Schizophrenia Patients*
     * [Paper](https://ieeexplore.ieee.org/document/8999111)
+
+For a full list of my publications, please see my [Google Scholar](https://scholar.google.com/citations?user=Qn7LtLoAAAAJ&hl=en) page.
