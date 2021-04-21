@@ -32,7 +32,7 @@
 * *Answer Span Correction in Machine Reading Comprehension*
     * [Paper](https://www.aclweb.org/anthology/2020.findings-emnlp.226.pdf)
 
-## Psycholinguistics
+## Clinical NLP/Psycholinguistics
 
 * *Predictive Linguistic Features of Schizophrenia*
     * [Paper](https://www.aclweb.org/anthology/S17-1028/)
@@ -40,5 +40,10 @@
 
 * *Understanding Cohesion in Writings and Speech of Schizophrenia Patients*
     * [Paper](https://ieeexplore.ieee.org/document/8999111)
+
+* *Topic Modeling-based Classification of Clinical Reports*
+   * [Paper](https://www.aclweb.org/anthology/P13-3010.pdf)
+   * [Paper](https://drive.google.com/file/d/1iwV7A284rZ1t7WV0Qu57yl1YrFuEoDGR/view)
+   * [Presentation](https://www.slideshare.net/efsunselin/effective-classification-of-clinical-reports-natural-language-processingbased-and-topic-modelingbased-approaches) 
 
 For a full list of my publications, please see my [Google Scholar](https://scholar.google.com/citations?user=Qn7LtLoAAAAJ&hl=en) page.
