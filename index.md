@@ -1,4 +1,8 @@
 
+
+## Transfer Learning for Low Resource Languages and Domains
+   * [Presentation](https://www.slideshare.net/efsunselin/transfer-learning-for-low-resource-languages-and-domains)
+
 ## Multilingual NLP
 
 * *Detecting Urgency Status of Crisis Tweets: A Transfer Learning Approach for Low Resource Languages*
@@ -15,7 +19,7 @@
 * *MultiSeg: Parallel Data and Subword Information for Learning Bilingual Embeddings in Low Resource Scenarios*
     * [Paper](https://www.aclweb.org/anthology/2020.sltu-1.13/)
     * [Code](https://github.com/vishalanand/MultiSeg)
-    * [Presentation]
+    * [Presentation](https://www.slideshare.net/efsunselin/multiseg-249210262)
 
 * *The ARIEL-CMU systems for LoReHLT18*
     * [Paper](https://arxiv.org/abs/1902.08899)
@@ -31,6 +35,7 @@
 
 * *Answer Span Correction in Machine Reading Comprehension*
     * [Paper](https://www.aclweb.org/anthology/2020.findings-emnlp.226.pdf)
+    * [Presentation](https://www.slideshare.net/efsunselin/answer-span-correction-in-machine-reading-comprehension)
 
 ## Clinical NLP/Psycholinguistics
 
