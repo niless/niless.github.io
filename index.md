@@ -1,7 +1,7 @@
 
 
-## Transfer Learning for Low Resource Languages and Domains
-   * [Presentation](https://www.slideshare.net/efsunselin/transfer-learning-for-low-resource-languages-and-domains)
+<!--- ## Transfer Learning for Low Resource Languages and Domains
+   * [Presentation](https://www.slideshare.net/efsunselin/transfer-learning-for-low-resource-languages-and-domains) --->
 
 ## Multilingual NLP
 
@@ -50,5 +50,9 @@
    * [Paper](https://www.aclweb.org/anthology/P13-3010.pdf)
    * [Paper](https://drive.google.com/file/d/1iwV7A284rZ1t7WV0Qu57yl1YrFuEoDGR/view)
    * [Presentation](https://www.slideshare.net/efsunselin/effective-classification-of-clinical-reports-natural-language-processingbased-and-topic-modelingbased-approaches) 
+
+## Computer Vision
+* *Object Detection using HoG Features for Visual Situation Recognition*
+  * [Tech Report](https://cpb-us-e1.wpmucdn.com/blogs.gwu.edu/dist/e/267/files/2017/08/object-detection-hog-1pdb6tt.pdf)   
 
 For a full list of my publications, please see my [Google Scholar](https://scholar.google.com/citations?user=Qn7LtLoAAAAJ&hl=en) page.
