@@ -3,6 +3,12 @@
 <!--- ## Transfer Learning for Low Resource Languages and Domains
    * [Presentation](https://www.slideshare.net/efsunselin/transfer-learning-for-low-resource-languages-and-domains) --->
 
+## Large Language Models
+
+* *To Burst or Not to Burst: Generating and Quantifying Improbable Text*
+  * [Paper](https://arxiv.org/abs/2401.15476) in Proceedings of the 3rd Workshop on Natural Language Generation, Evaluation, and Metrics (GEM).
+ 
+    
 ## Multilingual NLP
 
 * *Detecting Urgency Status of Crisis Tweets: A Transfer Learning Approach for Low Resource Languages*
