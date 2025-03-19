@@ -7,6 +7,7 @@
 
 * *To Burst or Not to Burst: Generating and Quantifying Improbable Text*
   * [Paper](https://arxiv.org/abs/2401.15476) in Proceedings of the 3rd Workshop on Natural Language Generation, Evaluation, and Metrics (GEM).
+  * [Code](https://github.com/jhuapl-fomo/burst-sampling)
  
     
 ## Multilingual NLP
